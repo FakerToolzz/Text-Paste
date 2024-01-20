@@ -12,7 +12,7 @@ pip install -r requirements.txt
 ## Usage
 
 ```sh
-python main.py
+python Text-Paste.py
 ```
 
 ## Author
